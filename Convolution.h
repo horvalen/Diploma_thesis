@@ -9,7 +9,7 @@
 using namespace std;
 
 // Global constant for pi
-double pi = 3.14;
+double pi = 3.14159265358979323846;
 
 // Structure for convolution functions
 struct Convolution {
