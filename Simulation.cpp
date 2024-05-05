@@ -277,7 +277,7 @@ double calculate_M_bil() {
 }
 
 
-void inicialization(int N, double k) {
+void initialization(int N, double k) {
     Nx1_pom = N;
     Nx2_pom = N;
     Nx3_pom = N;
@@ -302,7 +302,7 @@ void inicialization(int N, double k) {
 // Main function
 int main(int argc, char **argv) {
     // Checking if the required number of parameters is provided
-    const int params = 1;
+    const int params = 3;
     if (argc <= params)
     {
         printf("error: required %d parameters:\n %s res[1,...]\n", params, argv[0]);
@@ -313,7 +313,7 @@ int main(int argc, char **argv) {
     double k = atof(argv[2]);       // Transfer coefficient
     double d = atof(argv[3]);       // Defect coefficient
     // Setting up space steps, diffusion, number of nodes in each axis
-    inicialization(N, k);
+    initialization(N, k);
 	// Setting up the vascular environment and setting up constant matrix for concentration
 	setup_VE(N, dt, diffusion_c, d);
     // Setting up the extravascular environment and setting up constant matrix for concentration
