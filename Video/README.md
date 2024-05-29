@@ -11,8 +11,15 @@ Katedra matematiky, Fakulta jaderná a fyzikálně inženýrská ČVUT v Praze
 
 
 # Materiály:
-file:///home/lenka/Downloads/healthy_xyz%20(1).mp4
 
 
-file:///home/lenka/Downloads/unhealthy_II_xyz.mp4
+https://github.com/horvalen/Diploma_thesis/assets/168190467/587ee656-c612-41cc-86cb-73b0ddc9201e
+
+
+
+
+
+
+https://github.com/horvalen/Diploma_thesis/assets/168190467/2edab677-c0e9-424b-96fb-3aac5980d93e
+
 
