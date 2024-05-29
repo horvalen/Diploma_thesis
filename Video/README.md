@@ -11,3 +11,4 @@ Katedra matematiky, Fakulta jaderná a fyzikálně inženýrská ČVUT v Praze
 
 
 # Materiály:
+https://github.com/horvalen/Diploma_thesis/blob/main/Video/healthy_xyz.avi
